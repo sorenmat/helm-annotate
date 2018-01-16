@@ -1,0 +1,10 @@
+name: "annotate"
+version: "0.2.0"
+usage: "annotate release"
+description: |-
+  manipulate annotations on a release.
+ignoreFlags: false
+useTunnel: true
+command: "$HELM_PLUGIN_DIR/helm-annotate"
+hooks:
+  install: "$HELM_PLUGIN_DIR/install.sh"
