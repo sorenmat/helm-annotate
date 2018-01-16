@@ -15,6 +15,13 @@
 			"revisionTime": "2017-05-02T10:47:25Z"
 		},
 		{
+			"checksumSHA1": "jqSVRDK7dGg6E/NikVq1Kw6gdbA=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "1f4a1643a57e798696635ea4c126e9127adb7d3c",
+			"revisionTime": "2016-02-21T10:44:43Z"
+		},
+		{
 			"checksumSHA1": "ImX1uv6O09ggFeBPUJJ2nu7MPSA=",
 			"path": "github.com/ghodss/yaml",
 			"revision": "0ca9ea5df5451ffdf184b4428c902747c2c11cd7",
@@ -111,6 +118,13 @@
 			"revisionTime": "2017-10-18T19:55:50Z"
 		},
 		{
+			"checksumSHA1": "zKKp5SZ3d3ycKe4EKMNT0BqAWBw=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "1f4a1643a57e798696635ea4c126e9127adb7d3c",
+			"revisionTime": "2016-02-21T10:44:43Z"
+		},
+		{
 			"checksumSHA1": "aG5wPXVGAEu90TjPFNZFRtox2Zo=",
 			"path": "github.com/spf13/cobra",
 			"revision": "ccaecb155a2177302cb56cae929251a256d0f646",
@@ -121,6 +135,12 @@
 			"path": "github.com/spf13/pflag",
 			"revision": "4c012f6dcd9546820e378d0bdda4d8fc772cdfea",
 			"revisionTime": "2017-11-06T14:28:49Z"
+		},
+		{
+			"checksumSHA1": "Bn333k9lTndxU3D6n/G5c+GMcYY=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "1f4a1643a57e798696635ea4c126e9127adb7d3c",
+			"revisionTime": "2016-02-21T10:44:43Z"
 		},
 		{
 			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
